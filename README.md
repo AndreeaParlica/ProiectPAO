@@ -7,6 +7,7 @@ Cerinte indeplinite:
 - Exista o clasa abstractă
 - Exista o methoda abstracta
 - Foloseste moștenire
+- Foloseste o interfata
 - Methode implementate 
 depozitare()
 retragere()
